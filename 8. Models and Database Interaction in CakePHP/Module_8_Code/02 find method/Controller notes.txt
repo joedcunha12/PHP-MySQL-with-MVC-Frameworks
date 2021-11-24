@@ -1,0 +1,3 @@
+For this illustration, the model and view files are unchanged. 
+The controller in each folder shows the code for the corresponding method.
+Each controller can be tested by copying one at a time in controller folder.
